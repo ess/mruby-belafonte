@@ -1,5 +1,3 @@
-require 'belafonte/senora'
-
 module Belafonte
   module Helpers
     module Sharing

@@ -1,5 +1,3 @@
-require 'belafonte/errors'
-
 module Belafonte
   class Argument
     module ARGVProcessor

@@ -1,7 +1,3 @@
-require 'belafonte/errors'
-require 'belafonte/argument/argv_processor'
-require 'belafonte/argument/occurrence_normalizer'
-
 module Belafonte
   # Represents a command line argument
   class Argument

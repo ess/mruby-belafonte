@@ -1,6 +1,3 @@
-require 'belafonte/argument/argv_processor/processor'
-require 'belafonte/argument/argv_processor/unlimited'
-
 module Belafonte
   class Argument
     module ARGVProcessor

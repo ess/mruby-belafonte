@@ -1,6 +1,3 @@
-require 'optparse'
-require 'belafonte/argument_processor'
-
 module Belafonte
   # A service object that parses out argv
   class Parser

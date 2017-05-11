@@ -1,5 +1,3 @@
-require 'belafonte/help/generator'
-
 module Belafonte
   # Generates the help for a given app
   module Help

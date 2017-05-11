@@ -1,9 +1,3 @@
-require 'belafonte/errors'
-require 'belafonte/help'
-require 'belafonte/parser'
-require 'belafonte/helpers'
-require 'wrapomatic'
-
 module Belafonte
   module Rhythm
     def execute!

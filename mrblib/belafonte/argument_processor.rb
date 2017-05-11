@@ -1,6 +1,3 @@
-require 'belafonte/errors'
-require 'optionally/required'
-
 module Belafonte
   # Processes command line arguments
   class ArgumentProcessor

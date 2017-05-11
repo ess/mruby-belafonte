@@ -1,5 +1,3 @@
-require 'belafonte/argument/occurrence_normalizer/normalizer'
-
 module Belafonte
   class Argument
     module OccurrenceNormalizer

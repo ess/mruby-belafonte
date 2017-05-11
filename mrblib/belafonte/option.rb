@@ -1,5 +1,3 @@
-require 'belafonte/flag'
-
 module Belafonte
   # Flags that take arguments
   class Option < Belafonte::Flag

@@ -1,7 +1,3 @@
-require 'belafonte/dsl'
-require 'belafonte/rhythm'
-require 'belafonte/validator'
-
 module Belafonte
   # An application container
   class App

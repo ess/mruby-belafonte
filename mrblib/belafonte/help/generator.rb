@@ -1,8 +1,3 @@
-require 'wrapomatic'
-require 'belafonte/help/app_extensions'
-require 'belafonte/help/flag_extensions'
-require 'belafonte/help/command_extensions'
-
 module Belafonte
   module Help
     class Generator

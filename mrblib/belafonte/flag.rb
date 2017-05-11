@@ -1,5 +1,3 @@
-require 'belafonte/errors'
-
 module Belafonte
   # Flag is the base class for switches and options
   class Flag

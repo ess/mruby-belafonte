@@ -1,8 +1,3 @@
-require 'belafonte/switch'
-require 'belafonte/option'
-require 'belafonte/argument'
-require 'belafonte/errors'
-
 module Belafonte
   module DSL
     # Class methods for defining apps

@@ -1,5 +1,3 @@
-require 'belafonte/dsl/definition'
-
 module Belafonte
   # A DSL for making apps
   module DSL
