@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+require 'belafonte'
+
+class Hello < Belafonte::App
+  title "hello"
+  summary "Says hello"
+  description "This is an implementation of the classic programming example"
+
+  def handle
+    stdout.puts "Hello, world!"
+  end
+end
+
+exit Hello.new(ARGV).execute!
